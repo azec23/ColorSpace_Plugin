@@ -5,9 +5,12 @@ This project develops ways beyond drawing to develop architectural spaces “Col
 ## Installation Instructions For 'Color Space' Plugin
 
 - **Step 1:** 
-Please Download "Color Space: From Image to Object" plug-in.
+Please Download "Color Space: From Image to Object" Plugin
+- **Step 2:** 
+After Downloading in the 'Command' prompt please type in 'ColorSpace'
 - **Bold Bullet point:** 
-- **Bold Bullet point:** 
+- **Bold Bullet point:**
+- **Bold Bullet point:**
 
 -[Link to 'Color Space' Live VR Site](https://color-space-from-image-to-object.glitch.me/)
 
