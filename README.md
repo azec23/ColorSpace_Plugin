@@ -5,7 +5,7 @@ This project develops ways beyond drawing to develop architectural spaces “Col
 ## Installation Instructions For 'Color Space' Plugin
 
 - **Step 1:** 
-Please Download "Color Space From Image to Object" plug-in.
+Please Download "Color Space: From Image to Object" plug-in.
 - **Bold Bullet point:** 
 - **Bold Bullet point:** 
 
