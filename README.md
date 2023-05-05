@@ -7,7 +7,7 @@ This project develops ways beyond drawing to develop architectural spaces “Col
 - **Step 1:** 
 Please Download "Color Space: From Image to Object" Plugin
 - **Step 2:** 
-After Downloading in the 'Command' prompt please type in 'ColorSpace'
+After Downloading Plugin, in the 'Command' prompt please type in 'ColorSpace'
 - **Bold Bullet point:** 
 - **Bold Bullet point:**
 - **Bold Bullet point:**
