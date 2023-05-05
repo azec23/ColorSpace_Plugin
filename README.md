@@ -8,6 +8,6 @@ This project develops ways beyond drawing to develop architectural spaces “Col
 - **Bold Bullet point:** 
 - **Bold Bullet point:** 
 
--[Link to Color Space Llive VR Site](https://color-space-from-image-to-object.glitch.me/)
+-[Link to 'Color Space' Live VR Site](https://color-space-from-image-to-object.glitch.me/)
 
--[Link to Edit Color Space VR Site](https://glitch.com/edit/#!/color-space-from-image-to-object?path=index.html%3A1%3A0)
+-[Link to Edit 'Color Space' VR Site](https://glitch.com/edit/#!/color-space-from-image-to-object?path=index.html%3A1%3A0)
