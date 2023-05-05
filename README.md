@@ -8,6 +8,6 @@ This project develops ways beyond drawing to develop architectural spaces “Col
 - **Bold Bullet point:** 
 - **Bold Bullet point:** 
 
--[Link to live VR site](https://immersive-example.glitch.me)
+-[Link to live VR site](https://color-space-from-image-to-object.glitch.me/)
 
--[Link to edit VR site](https://glitch.com/edit/#!/immersive-example)
+-[Link to edit VR site](https://glitch.com/edit/#!/color-space-from-image-to-object?path=index.html%3A1%3A0)
