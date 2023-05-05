@@ -5,7 +5,8 @@ This project develops ways beyond drawing to develop architectural spaces “Col
 
 - **Step 1:** 
 Please download "Color Space From Image to Object" plug-in.
-- **Bold Bullet point:** 
+- **Step 2:** 
+Please 
 - **Bold Bullet point:** 
 
 -[Link to Live VR Site for Color Space](https://color-space-from-image-to-object.glitch.me/)
