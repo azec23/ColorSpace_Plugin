@@ -8,8 +8,12 @@ This project develops ways beyond drawing to develop architectural spaces “Col
 Please Download "Color Space: From Image to Object" Plugin
 - **Step 2:** 
 After Downloading Plugin, in the 'Command' prompt please type in 'ColorSpace'
-- **Bold Bullet point:** 
-- **Bold Bullet point:**
+-  **Step 3:** 
+The first prompt will appear where it tells you what 'ColorSpace' will do
+-  **Step 4:** 
+Next you will pick the Color Scale: 'Default From Image' or 'Linear Color Gradient'
+-  **Step 5:** 
+The File Explorer will open for you to select your image of choice
 - **Bold Bullet point:**
 
 -[Link to 'Color Space' Live VR Site](https://color-space-from-image-to-object.glitch.me/)
