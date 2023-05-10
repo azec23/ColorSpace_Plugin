@@ -14,7 +14,20 @@ The first prompt will appear where it tells you what 'ColorSpace' will do
 Next you will pick the Color Scale: 'Default From Image' or 'Linear Color Gradient'
 -  **Step 5:** 
 The File Explorer will open for you to select your image of choice
-- **Bold Bullet point:**
+-  **Step 6:** 
+The Resolution Density of Image window will appear for you to choose your density number
+-  **Step 7:** 
+The Radius of Cube window will appear for you to choose your radius number
+-  **Step 8:** 
+The Z Axis of Cube window will appear for you to choose your Z Axis number
+-  **Step 9:** 
+The window for you to choose your color for 'Linear Color Gradient' will appear
+-  **Step 10:** 
+The Color Picker will appear
+-  **Step 11:** 
+The option for you to Mirror the Objcets will appear, selecet 'Yes' or 'No'
+-  **Step 12:** 
+The option for you to Shear the Objcets will appear, selecet 'Yes' or 'No'
 
 -[Link to 'Color Space' Live VR Site](https://color-space-from-image-to-object.glitch.me/)
 
