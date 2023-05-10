@@ -28,6 +28,14 @@ The Color Picker will appear
 The option for you to Mirror the Objcets will appear, selecet 'Yes' or 'No'
 -  **Step 12:** 
 The option for you to Shear the Objcets will appear, selecet 'Yes' or 'No'
+-  **Step 13:** 
+If 'Yes' was answered for the Shear options, a window to enter your Shear value will appear and enter a value
+-  **Step 14:** 
+The Angle for Shearing window will appear for you to enter an amount in degrees for the Shear
+-  **Step 15:** 
+Wait for 'ColorSpace' to run and do its magic
+-  **Step 16:** 
+The option for you to Save the Animation will appear, selecet 'Yes' or 'No'
 
 -[Link to 'Color Space' Live VR Site](https://color-space-from-image-to-object.glitch.me/)
 
